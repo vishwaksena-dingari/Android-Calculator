@@ -7,3 +7,6 @@ This is a calculator which can perfom basic mathematic calculations.
 It can perfom calculations using decimal numbers.
 
 It also supports calculations using brackets.
+
+
+<img src="./img/img-0" /> <img src="./img/img-1" />
