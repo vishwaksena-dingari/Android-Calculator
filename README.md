@@ -9,4 +9,4 @@ It can perfom calculations using decimal numbers.
 It also supports calculations using brackets.
 
 
-<img src="img/img-0.png" /> <img src="img/img-1.png" />
+<img src="img/img-0.png" width="300px"/> <img src="img/img-1.png" width="18.75rem"/>
